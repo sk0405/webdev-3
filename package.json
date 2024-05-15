@@ -1,0 +1,24 @@
+{
+    "name": "webdev-3",
+    "version": "1.0.0",
+    "description": ">> N: NodeJs",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "rohan": "node server.js",
+      "dev": "nodemon server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sk0405/webdev-3.git"
+    },
+    "author": "rohan kinnal",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/sk0405/webdev-3/issues"
+    },
+    "homepage": "https://github.com/sk0405/webdev-3#readme",
+    "dependencies": {
+      "nodemon": "^3.1.0"
+    }
+  }
